@@ -8,7 +8,10 @@ const Footer = () => {
         <div className='container grid2'>
           <div className='box'>
             <h1>Bonik</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
+            <p>
+              © 1997 - 2020 Công Ty Cổ Phần Thương Mại - Dịch Vụ
+              Giấy chứng nhận đăng ký doanh nghiệp: 0304998358 do Sở KH-ĐT TP.HCM cấp lần đầu ngày 30 tháng 05 năm 2007
+            </p>
             <div className='icon d_flex'>
               <div className='img d_flex'>
                 <i class='fa-brands fa-google-play'></i>
@@ -22,31 +25,31 @@ const Footer = () => {
           </div>
 
           <div className='box'>
-            <h2>About Us</h2>
+            <h2>Về chúng tôi</h2>
             <ul>
-              <li>Careers</li>
-              <li>Our Stores</li>
-              <li>Our Cares</li>
-              <li>Terms & Conditions</li>
-              <li>Privacy Policy</li>
+              <li>Giới thiệu công ty</li>
+              <li>Tuyển dụng</li>
+              <li>Gửi góp ý, khiếu nại</li>
+              <li>Tìm cửa hàng</li>
+              <li>Chính sách bảo mật</li>
             </ul>
           </div>
           <div className='box'>
-            <h2>Customer Care</h2>
+            <h2>Hỗ trợ khách hàng</h2>
             <ul>
-              <li>Help Center </li>
-              <li>How to Buy </li>
-              <li>Track Your Order </li>
-              <li>Corporate & Bulk Purchasing </li>
-              <li>Returns & Refunds </li>
+              <li>Hướng dẫn mua online</li>
+              <li>Thẻ ưu đãi</li>
+              <li>Chính sách trả góp</li>
+              <li>Ưu đãi dành cho doanh nghiệp</li>
+              <li>Dịch vụ sửa chữa</li>
             </ul>
           </div>
           <div className='box'>
-            <h2>Contact Us</h2>
+            <h2>Liên hệ chúng tôi</h2>
             <ul>
-              <li>70 Washington Square South, New York, NY 10012, United States </li>
+              <li>22/4 Đông Hòa, Tân Hòa, Dĩ An, Bình Dương</li>
               <li>Email: uilib.help@gmail.com</li>
-              <li>Phone: +1 1123 456 780</li>
+              <li>Phone: +346398280</li>
             </ul>
           </div>
         </div>
