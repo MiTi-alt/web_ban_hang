@@ -1,26 +1,26 @@
 const Sdata = [
   {
     id: 1,
-    title: "50% Off For Your First Shopping",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+    title: "Xiaomi Watch S3 | Watch 2 Smart Band 8 Pro",
+    desc: "Đặt trước - Hotsale 13/3 - 22/3",
     cover: "./images/SlideCard/slide-1.png",
   },
   {
     id: 2,
-    title: "50% Off For Your First Shopping",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+    title: "Intel Core ULtra",
+    desc: "Khai mở trải nghiệm AI mới với bộ vi xử lý Intel Core ULtra",
     cover: "./images/SlideCard/slide-2.png",
   },
   {
     id: 3,
-    title: "50% Off For Your First Shopping",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+    title: "Xiaomi 14 CO-ENGINEERED",
+    desc: "Đặt trước - Hotsale 13/3 - 22/3 Giảm ngay 4 triệu",
     cover: "./images/SlideCard/slide-3.png",
   },
   {
     id: 4,
-    title: "50% Off For Your First Shopping",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+    title: "Laptop Acer Nitro",
+    desc: "Giảm đến 9 triệu",
     cover: "./images/SlideCard/slide-4.png",
   },
 ]

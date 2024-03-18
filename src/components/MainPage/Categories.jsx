@@ -4,47 +4,47 @@ const Categories = () => {
   const data = [
     {
       cateImg: "./images/category/cat1.png",
-      cateName: "Fashion",
+      cateName: "Tivi",
     },
     {
       cateImg: "./images/category/cat2.png",
-      cateName: "Electronic",
+      cateName: "Tủ lạnh",
     },
     {
       cateImg: "./images/category/cat3.png",
-      cateName: "Cars",
+      cateName: "Máy giặt",
     },
     {
       cateImg: "./images/category/cat4.png",
-      cateName: "Home & Garden",
+      cateName: "Máy lạnh",
     },
     {
       cateImg: "./images/category/cat5.png",
-      cateName: "Gifts",
+      cateName: "Lọc nước",
     },
     {
       cateImg: "./images/category/cat6.png",
-      cateName: "Music",
+      cateName: "Nồi chiên",
     },
     {
       cateImg: "./images/category/cat7.png",
-      cateName: "Health & Beauty",
+      cateName: "Bếp điện",
     },
     {
       cateImg: "./images/category/cat8.png",
-      cateName: "Pets",
+      cateName: "Quạt",
     },
     {
       cateImg: "./images/category/cat9.png",
-      cateName: "Baby Toys",
+      cateName: "Loa",
     },
     {
       cateImg: "./images/category/cat10.png",
-      cateName: "Groceries",
+      cateName: "Điện thoại",
     },
     {
       cateImg: "./images/category/cat11.png",
-      cateName: "Books",
+      cateName: "Gia dụng",
     },
   ]
 
