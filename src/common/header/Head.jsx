@@ -12,12 +12,14 @@ const Head = () => {
             <label> support@ui-lib.com</label>
           </div>
           <div className='right row RText'>
-            <label>Theme FAQ"s</label>
+            {/*<label>Theme FAQ"s</label>*/}
             <label>Hỗ trợ?</label>
-            <span>🏳️‍⚧️</span>
+            {/*<span>🏳️‍⚧️</span>*/}
+            <span>🏳️‍</span>
             <label>EN</label>
-            <span>🏳️‍⚧️</span>
-            <label>USD</label>
+            {/*<span>🏳️‍⚧️</span>*/}
+            <span>🏳️‍ </span>
+            <label>VN</label>
           </div>
         </div>
       </section>

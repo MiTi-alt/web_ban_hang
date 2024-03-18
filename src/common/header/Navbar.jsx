@@ -21,9 +21,9 @@ const Navbar = () => {
               <li>
                 <Link to='/'>Trang chủ</Link>
               </li>
-              <li>
-                <Link to='/pages'>Trang</Link>
-              </li>
+              {/*<li>*/}
+              {/*  <Link to='/pages'>Trang</Link>*/}
+              {/*</li>*/}
               <li>
                 <Link to='/user'>Tài khoản</Link>
               </li>
